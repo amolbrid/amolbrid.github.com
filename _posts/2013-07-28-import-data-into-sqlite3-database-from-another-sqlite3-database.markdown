@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips - Importing data into sqlite3 database from another sqlite3 database.
+title: Tip - Importing data into sqlite3 database from another sqlite3 database.
 categories: tips
 ---
 
