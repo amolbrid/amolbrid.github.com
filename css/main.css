@@ -75,6 +75,11 @@ ul.posts span {
   /*line-height: 1.5em;*/
 }
 
+.site .header {
+  margin-bottom: 2em;
+  border-bottom: 4px solid #EEEEEE;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
@@ -82,7 +87,13 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
+}
+
+.site .header .tag-line {
+  color: #777;
+  font-style: italic;
+  position: relative;
+  top: -10px;
 }
 
 .site .header h1.title a {
