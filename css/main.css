@@ -71,13 +71,14 @@ ul.posts span {
 /*  font-size: 115%; */
   text-align: justify;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 2em auto;
   /*line-height: 1.5em;*/
 }
 
 .site .header {
   margin-bottom: 2em;
-  border-bottom: 4px solid #EEEEEE;
+  border-bottom: 1px solid #EEEEEE;
+  text-align: center;
 }
 
 .site .header a {
@@ -86,14 +87,14 @@ ul.posts span {
 }
 
 .site .header h1.title {
-  display: inline-block;
+  /*display: inline-block;*/
 }
 
 .site .header .tag-line {
   color: #777;
   font-style: italic;
   position: relative;
-  top: -10px;
+  top: -20px;
 }
 
 .site .header h1.title a {
